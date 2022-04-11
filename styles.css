@@ -11,18 +11,45 @@
 
   .logo {
       width: 5cm;
-      margin-right: 30cm;
+      margin-left: -900px;
       margin-top: 1cm;
+      margin-bottom: 10px;
   }
 
  .second {
-    background-color: rgb(3, 3, 138);
+    background-image: linear-gradient(to right, rgb(0, 14, 137) , rgb(82, 1, 154));  
     padding: 5px;
-    color: rgba(255, 255, 255, 0.712);
+    color: rgba(255, 255, 255, 0.954);
     margin-left: -3cm;
     margin-top: -1cm;
     margin-right: -2cm;
     text-align: center;
     height: 700px; 
-    font-size: 25px;
+}
+
+.man {
+    width: 500px;
+    float: left; 
+    margin-left: 200px;
+    margin-top: 70px;
+    border-radius: 20%; 
+}
+
+.welcome {
+    margin-top: 160px;
+    font-size: 70px;
+    margin-right: 60px;
+}
+
+.pw {
+    margin-right: 60px;
+    font-size: 19px;
+}
+
+.aa {
+    margin-top: 90px;
+    margin-right: 90px;
+    float: right;
+    color: white;
+    text-decoration: none;
 }
