@@ -7,6 +7,7 @@
     margin-left: -3cm;
     margin-top: -2cm;
     margin-right: -2cm;
+    font-family: 'Shrikhand', cursive;
   }
 
   .logo {
@@ -25,7 +26,8 @@
     margin-right: -2cm;
     text-align: center;
     height: 700px; 
-}
+    font-family: 'Playfair Display', serif;
+ } 
 
 .man {
     width: 500px;
@@ -36,14 +38,14 @@
 }
 
 .welcome {
-    margin-top: 160px;
+    margin-top: 120px;
     font-size: 70px;
     margin-right: 60px;
 }
 
 .pw {
     margin-right: 60px;
-    font-size: 19px;
+    font-size: 18px;
 }
 
 .aa {
