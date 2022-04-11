@@ -35,3 +35,27 @@
     height: 700px; 
 }
 
+.post-1 {
+    margin-top: 20px;
+    margin-right: 800px;
+}
+
+.rel {
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 20%; 
+}
+
+button {
+    border: none;
+  color: rgb(239, 239, 239);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: rgb(159, 0, 157);
+  border-radius: 15%;
+}
